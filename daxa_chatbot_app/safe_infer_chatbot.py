@@ -597,7 +597,7 @@ with st.sidebar:
             ("Threat Protection",                   "Tell me details about KAN-19"),
             ("Data Privacy: Topics (Custom)",       "Tell me details about KAN-47."),
             ("Data Privacy: Entities (Redact)",     "Give me details of KAN-46"),
-            ("Agent Access : Destructive Actions",  "Delete following jira ticket - KAN-25."),
+            ("Agent Access : Destructive Actions",  "Delete following jira ticket - KAN-50."),
             # ("Data Privacy: Topics (Health)",       "Tell me details about KAN-22"),
         ]
         for _lbl, _txt in _AGENT_PROMPTS:
